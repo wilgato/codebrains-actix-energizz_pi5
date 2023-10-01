@@ -1,0 +1,10 @@
+C:\Users\wilki\OneDrive\Área de Trabalho\rust\codebrains-actix-energizz_pi5\migration\target\debug\deps\hashlink-08bf6d14463d1ce4.rmeta: C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashlink-0.8.4\src\lib.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashlink-0.8.4\src\linked_hash_map.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashlink-0.8.4\src\linked_hash_set.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashlink-0.8.4\src\lru_cache.rs
+
+C:\Users\wilki\OneDrive\Área de Trabalho\rust\codebrains-actix-energizz_pi5\migration\target\debug\deps\libhashlink-08bf6d14463d1ce4.rlib: C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashlink-0.8.4\src\lib.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashlink-0.8.4\src\linked_hash_map.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashlink-0.8.4\src\linked_hash_set.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashlink-0.8.4\src\lru_cache.rs
+
+C:\Users\wilki\OneDrive\Área de Trabalho\rust\codebrains-actix-energizz_pi5\migration\target\debug\deps\hashlink-08bf6d14463d1ce4.d: C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashlink-0.8.4\src\lib.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashlink-0.8.4\src\linked_hash_map.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashlink-0.8.4\src\linked_hash_set.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashlink-0.8.4\src\lru_cache.rs
+
+C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashlink-0.8.4\src\lib.rs:
+C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashlink-0.8.4\src\linked_hash_map.rs:
+C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashlink-0.8.4\src\linked_hash_set.rs:
+C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashlink-0.8.4\src\lru_cache.rs:

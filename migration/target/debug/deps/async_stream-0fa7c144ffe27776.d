@@ -1,0 +1,10 @@
+C:\Users\wilki\OneDrive\Área de Trabalho\rust\codebrains-actix-energizz_pi5\migration\target\debug\deps\async_stream-0fa7c144ffe27776.rmeta: C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\lib.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\async_stream.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\next.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\yielder.rs
+
+C:\Users\wilki\OneDrive\Área de Trabalho\rust\codebrains-actix-energizz_pi5\migration\target\debug\deps\libasync_stream-0fa7c144ffe27776.rlib: C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\lib.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\async_stream.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\next.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\yielder.rs
+
+C:\Users\wilki\OneDrive\Área de Trabalho\rust\codebrains-actix-energizz_pi5\migration\target\debug\deps\async_stream-0fa7c144ffe27776.d: C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\lib.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\async_stream.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\next.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\yielder.rs
+
+C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\lib.rs:
+C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\async_stream.rs:
+C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\next.rs:
+C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\yielder.rs:

@@ -1,0 +1,1 @@
+pub use super::dados_sensor1::dados_sensor1_handler;

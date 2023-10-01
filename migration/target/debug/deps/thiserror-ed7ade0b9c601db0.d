@@ -1,0 +1,10 @@
+C:\Users\wilki\OneDrive\Área de Trabalho\rust\codebrains-actix-energizz_pi5\migration\target\debug\deps\thiserror-ed7ade0b9c601db0.rmeta: C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.48\src\lib.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.48\src\aserror.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.48\src\display.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.48\src\provide.rs
+
+C:\Users\wilki\OneDrive\Área de Trabalho\rust\codebrains-actix-energizz_pi5\migration\target\debug\deps\libthiserror-ed7ade0b9c601db0.rlib: C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.48\src\lib.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.48\src\aserror.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.48\src\display.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.48\src\provide.rs
+
+C:\Users\wilki\OneDrive\Área de Trabalho\rust\codebrains-actix-energizz_pi5\migration\target\debug\deps\thiserror-ed7ade0b9c601db0.d: C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.48\src\lib.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.48\src\aserror.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.48\src\display.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.48\src\provide.rs
+
+C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.48\src\lib.rs:
+C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.48\src\aserror.rs:
+C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.48\src\display.rs:
+C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.48\src\provide.rs:

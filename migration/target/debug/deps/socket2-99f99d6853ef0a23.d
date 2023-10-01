@@ -1,0 +1,11 @@
+C:\Users\wilki\OneDrive\Área de Trabalho\rust\codebrains-actix-energizz_pi5\migration\target\debug\deps\socket2-99f99d6853ef0a23.rmeta: C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.4\src\lib.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.4\src\sockaddr.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.4\src\socket.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.4\src\sockref.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.4\src\sys\windows.rs
+
+C:\Users\wilki\OneDrive\Área de Trabalho\rust\codebrains-actix-energizz_pi5\migration\target\debug\deps\libsocket2-99f99d6853ef0a23.rlib: C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.4\src\lib.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.4\src\sockaddr.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.4\src\socket.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.4\src\sockref.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.4\src\sys\windows.rs
+
+C:\Users\wilki\OneDrive\Área de Trabalho\rust\codebrains-actix-energizz_pi5\migration\target\debug\deps\socket2-99f99d6853ef0a23.d: C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.4\src\lib.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.4\src\sockaddr.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.4\src\socket.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.4\src\sockref.rs C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.4\src\sys\windows.rs
+
+C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.4\src\lib.rs:
+C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.4\src\sockaddr.rs:
+C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.4\src\socket.rs:
+C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.4\src\sockref.rs:
+C:\Users\wilki\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.4\src\sys\windows.rs:
